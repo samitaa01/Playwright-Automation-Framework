@@ -1,0 +1,5 @@
+{
+    "PDF24convert" : ".toolLink.convertToPdf",
+    "PDF24convertBtn" : "button[class='btn action convert']"
+
+}
